@@ -16,7 +16,7 @@ Diamond sponsor:
   </tbody>
 </table>
 
-Gold sponsor:
+Gold sponsors:
 
 <table>
   <tbody>
