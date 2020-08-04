@@ -35,6 +35,23 @@ Gold sponsors:
   </tbody>
 </table>
 
+Table of contents:
+
+- About Code It Up
+- Why Microservices?
+- Microservices Architecture
+- Data in Microservices
+- The Bounded Context
+- Logical VS Physical Architecture
+- Distributed Data Challenges
+- Identifying Boundaries
+- The API Gateway
+- Communication
+- Containers
+- Orchestration
+- Other Considerations
+- Avoiding Disasters
+
 If you'd like to support me and my projects, please consider:
 
 - [My mentorship program on Patreon](https://www.patreon.com/ivaylokenov)
